@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You have done a dynamic click</name>
+   <tag></tag>
+   <elementGuidId>c387953a-34cf-4661-b631-423e9305ed08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dynamicClickMessage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='dynamicClickMessage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e4ebb208-375a-4e42-8e22-0b7ffafd9b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dynamicClickMessage</value>
+      <webElementGuid>40bcfc11-2fe1-44d9-aaf1-aa5ffbca5653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have done a dynamic click</value>
+      <webElementGuid>dc90be3e-0ce9-43ae-b187-5126a844e16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicClickMessage&quot;)</value>
+      <webElementGuid>3dbea42d-8e4f-4d38-a3fc-9eb604407229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='dynamicClickMessage']</value>
+      <webElementGuid>7a25f57a-4b6f-452c-8ecf-3560bfc26507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>ff157cb3-84f0-4d76-bc7c-5b2bb7e36d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Me'])[1]/following::p[1]</value>
+      <webElementGuid>ed06fbe2-13c1-462c-a25f-bf54f8e46b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right Click Me'])[1]/following::p[1]</value>
+      <webElementGuid>36b8aa18-e388-4402-8118-2d655ceae598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>7aa53949-7e6b-4302-bbf6-f09a74c97eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You have done a dynamic click']/parent::*</value>
+      <webElementGuid>bd9a2eb6-57a7-458a-8e87-c864562fc30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8a74901a-9f3c-462a-8873-2f104085f274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'dynamicClickMessage' and (text() = 'You have done a dynamic click' or . = 'You have done a dynamic click')]</value>
+      <webElementGuid>25a835de-3f8f-4c3b-a48e-fa0b01fe2642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

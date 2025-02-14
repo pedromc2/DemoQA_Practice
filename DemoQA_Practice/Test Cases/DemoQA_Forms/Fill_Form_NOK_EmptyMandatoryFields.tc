@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill_Form_NOK_EmptyMandatoryFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5d3663-c911-4d5d-aaf9-2b172b253703</testCaseGuid>
+</TestCaseEntity>
